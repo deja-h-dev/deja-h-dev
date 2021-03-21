@@ -1,0 +1,5 @@
+- 🙋🏿‍♀️ Hi, I’m @deja-h-dev
+- 👀 I’m interested in Web Development! Front-in, Back-end, Full-stack, WordPress etc. I want to learn it all!
+- 🌱 I’m currently learning WordPress!
+- 💞️ I’m not looking to collaborate on anything atm
+- 📫 How to reach me: 
