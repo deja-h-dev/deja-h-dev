@@ -1,5 +1,5 @@
-- 🙋🏿‍♀️ Hi, I’m @deja-h-dev
-- 👀 I’m interested in Web Development! Front-in, Back-end, Full-stack, WordPress etc. I want to learn it all!
-- 🌱 I’m currently learning WordPress!
+- 🙋🏿‍♀️ Hi, I’m Deja, I'm 25 y/o and live in Alexandria, VA.
+- 👀 I’m interested in Freelance Web Development! Front-in, Back-end, Full-stack, WordPress etc. I want to learn it all!
+- 🌱 I’m currently learning the basics! HTML/CSS/SCSS
 - 💞️ I’m not looking to collaborate on anything atm
-- 📫 How to reach me: 
+- 📫 How to reach me: email(deja.h.dev@gmail.com); twitter(@CogitoErgoWut)
